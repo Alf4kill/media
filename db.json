@@ -1,20 +1,8 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Myra"
-    },
-    {
       "name": "Adam Boehm",
       "id": 2
-    },
-    {
-      "name": "Eduardo Ritchie",
-      "id": 3
-    },
-    {
-      "name": "Bertha Heaney",
-      "id": 4
     },
     {
       "name": "Kerry Parker",
