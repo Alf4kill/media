@@ -1,5 +1,34 @@
 {
-  "users": [{ "id": 1, "name": "Myra" }],
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Adam Boehm",
+      "id": 2
+    },
+    {
+      "name": "Eduardo Ritchie",
+      "id": 3
+    },
+    {
+      "name": "Bertha Heaney",
+      "id": 4
+    },
+    {
+      "name": "Kerry Parker",
+      "id": 5
+    },
+    {
+      "name": "Ms. Grant Hamill",
+      "id": 6
+    },
+    {
+      "name": "Dave Funk",
+      "id": 7
+    }
+  ],
   "albums": [],
   "photos": []
 }
