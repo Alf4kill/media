@@ -1,10 +1,6 @@
 {
   "users": [
     {
-      "name": "Adam Boehm",
-      "id": 2
-    },
-    {
       "name": "Kerry Parker",
       "id": 5
     },
@@ -15,6 +11,10 @@
     {
       "name": "Dave Funk",
       "id": 7
+    },
+    {
+      "name": "Zachary Kub",
+      "id": 8
     }
   ],
   "albums": [],
